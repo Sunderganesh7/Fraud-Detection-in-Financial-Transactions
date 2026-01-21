@@ -80,7 +80,6 @@ Internship Project | Data Analytics | Power BI Dashboard
 
 Sunderganesh
 
-If you want, I can:
 
 
 
