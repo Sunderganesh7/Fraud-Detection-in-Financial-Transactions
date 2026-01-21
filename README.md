@@ -76,15 +76,4 @@ Internship Project | Data Analytics | Power BI Dashboard
 <img width="1317" height="734" alt="image" src="https://github.com/user-attachments/assets/a3fcec1e-178e-4d3f-8c92-f77dbadc674a" />
 
 
-📄 Author
 
-Sunderganesh
-
-
-
-
-
-
-Add a Live Dashboard link section
-
-Just tell me 👍
