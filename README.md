@@ -1,73 +1,91 @@
-# 💳 Power BI Project: Credit Card Fraud Risk Analysis | End-to-End Dashboard
+Fraud Detection in Financial Transactions
+📌 Overview
 
-Fraud detection is a critical focus area for the banking and finance sectors. In this Power BI project, we dive into analyzing credit card transactions to uncover fraud patterns, assess risks, and build an interactive dashboard that supports real-time decision-making.
+This project focuses on analyzing financial transaction data to identify suspicious and potentially fraudulent activities using Power BI. The dashboard provides insights into fraud patterns based on transaction type, risk level, time, and geographic location, helping in better fraud monitoring and awareness.
 
----
+🎯 Objective
 
-## 🚀 Project Highlights
+To identify suspicious and fraudulent financial transactions
 
-In this project, you’ll learn how to:
-- 🧹 **Data Collection & Cleaning**: Prepare transactional data for fraud risk analysis.
-- 🔎 **Exploratory Data Analysis (EDA)**: Detect fraud trends, patterns, and anomalies.
-- 📊 **Build Interactive Dashboards**: Visualize fraud metrics with slicers, filters, and drill-downs.
-- 📈 **Risk Assessment Metrics**: Identify high-risk transactions and analyze fraud probability.
-- 🤖 **Predictive Insights**: Explore how banks can leverage BI and analytics for fraud prevention.
-- 🌍 **Real-World Applications**: Understand how financial institutions detect and combat fraud daily.
+To analyze fraud trends and risk categories
 
----
+To visualize fraud-related metrics using interactive dashboards
 
-## 🎥 Full Video Tutorial
+To support data-driven decision-making in fraud detection
 
-📺 [Watch the Full Tutorial Here](https://youtu.be/pR2P4JbLXEE)
+📊 Dataset
 
----
+Anonymized financial / credit card transaction dataset
 
-## 🛠 Getting Started
+Contains transaction amount, fraud type, risk level, time, and location details
 
-To work on this project:
-1. **Clone or fork** this repository.
-2. Open the `.pbix` file with **Power BI Desktop**.
-3. Download the provided dataset or connect your own credit card transaction data.
-4. Follow the tutorial to build your fraud detection dashboard step-by-step.
+(Note: Dataset used is for educational and analytical purposes.)
 
-📥 **Download Dataset & Resources Here**: [Add Link]
+🛠 Tools & Technologies
 
----
+Power BI
 
-## 🎯 Who Should Use This Project?
+Power Query (for data cleaning and transformation)
 
-- 🧑‍💻 **Data Analysts** & **Power BI Enthusiasts** building real-world projects
-- 🏦 **Banking & Finance Professionals** improving fraud prevention strategies
-- 🎓 **Students & Beginners** learning Power BI & financial analytics
-- 📊 **Business Intelligence Experts** enhancing financial data visualization skills  
+DAX (for calculated measures and KPIs)
 
----
+🔍 Key Features
 
-## 📢 Stay Connected
+Fraud rate and fraudulent transaction count
 
-👍 Like the video if it helped you!  
-💬 Comment your thoughts or questions under the tutorial!  
-🔔 Subscribe to the channel for more Power BI tutorials, data projects, and BI techniques.
+Risk-based classification (Low, Medium, High, Critical)
 
----
+Fraud analysis by transaction type and category
 
-## 🌐 Visit Pianalytix for More Resources
+State-wise and time-based fraud trends
 
-🔗 **Website**: [https://pianalytix.com](https://pianalytix.com)  
-Explore 300+ hands-on Data Science, Power BI, and Development projects.
+Interactive filters for detailed exploration
 
----
+📈 Dashboard Highlights
 
-## 📲 Connect with Pianalytix:
+KPI cards for quick fraud overview
 
-✅ **Instagram**: [@pianalytix.official](https://www.instagram.com/pianalytix.official/)  
-✅ **LinkedIn**: [Pianalytix](https://www.linkedin.com/company/pianalytix/)  
-✅ **YouTube**: [@pianalytixofficial](https://m.youtube.com/@pianalytixofficial)
+Visual alerts for high-risk and critical transactions
 
----
+Charts showing fraud distribution and trends
 
-## 📘 Explore Our Udemy Courses:
+Geographic analysis of fraudulent activities
 
-- 📌 [Build 45 Real-World Power BI Projects for BI & Data Analysts](https://www.udemy.com/course/data-analytics-course-power-bi-tableau/?couponCode=NOV2024)  
-- 📌 [Data Science Bundle: 180 Hands-On Projects](https://www.udemy.com/course/data-science-projects-mastering-the-real-life-analytics/?couponCode=NOV2024)  
-- 📌 [100 Days of Code: Real-World Data Science Projects Bootcamp](https://www.udemy.com/course/hands-on-data-science-build-real-world-projects/?couponCode=NOV2024)
+💡 Insights
+
+Certain transaction types show higher fraud occurrence
+
+High-risk transactions contribute significantly to fraud amount
+
+Fraud patterns vary across locations and time periods
+
+🚀 How to Use
+
+Download the .pbix file from this repository
+
+Open it using Power BI Desktop
+
+Use slicers and filters to explore fraud insights
+
+📎 Project Type
+
+Internship Project | Data Analytics | Power BI Dashboard
+
+📷 Screenshots
+
+<img width="1317" height="734" alt="image" src="https://github.com/user-attachments/assets/a3fcec1e-178e-4d3f-8c92-f77dbadc674a" />
+
+
+📄 Author
+
+Sunderganesh
+
+If you want, I can:
+
+
+
+
+
+Add a Live Dashboard link section
+
+Just tell me 👍
